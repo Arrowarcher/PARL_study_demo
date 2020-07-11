@@ -33,12 +33,8 @@ ps：安装ple
 ```
 
 ## 算法使用
-- Policy Gradient
-
-开始使用这个算法，但是发现训练效果不明显，没有DQN效果快，文件代码在fb下的fb.py
 - DQN
-
-使用这个算法后，发现效果很好，文件代码在fb下的`f_bird_dqn.py`,和flappy_paddle下的`new_f_bird_dqn.py`
+使用这个算法后，发现效果很好，flappy_paddle下的`new_f_bird_dqn.py`
 
 ---
 
