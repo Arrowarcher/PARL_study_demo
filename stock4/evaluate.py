@@ -1,9 +1,9 @@
 import os
 import pickle
 import pandas as pd
-from reinforcement_learning.stock.stock4.env import StockTradingEnv
-from reinforcement_learning.stock.stock4.model import StockModel
-from reinforcement_learning.stock.stock4.agent import StockAgent
+from stock4.env import StockTradingEnv
+from stock4.model import StockModel
+from stock4.agent import StockAgent
 from parl.algorithms import DDPG
 from parl.utils import action_mapping
 import numpy as np

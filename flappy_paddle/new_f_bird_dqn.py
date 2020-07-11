@@ -10,7 +10,7 @@ from parl.algorithms import DQN
 import random
 import collections
 
-from reinforcement_learning.flappy_paddle.new_env import FlappyPaddle
+from flappy_paddle.new_env import FlappyPaddle
 
 LEARN_FREQ = 5  # 训练频率，不需要每一个step都learn，攒一些新增经验后再learn，提高效率
 MEMORY_SIZE = 20000  # replay memory的大小，越大越占用内存

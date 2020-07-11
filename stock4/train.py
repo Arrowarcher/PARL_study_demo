@@ -7,9 +7,9 @@ from parl.utils import logger
 from parl.utils import action_mapping  # 将神经网络输出映射到对应的 实际动作取值范围 内
 from parl.utils import ReplayMemory  # 经验回放
   # 使用 RLSchool 创建飞行器环境
-from reinforcement_learning.stock.stock4.env import StockTradingEnv
-from reinforcement_learning.stock.stock4.model import StockModel
-from reinforcement_learning.stock.stock4.agent import StockAgent
+from stock4.env import StockTradingEnv
+from stock4.model import StockModel
+from stock4.agent import StockAgent
 from parl.algorithms import DDPG
 
 
