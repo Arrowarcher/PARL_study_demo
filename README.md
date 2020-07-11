@@ -111,3 +111,6 @@ self.screen.blit(score_surface,(10,10))
 
 ```
 
+
+<img src="flappy_paddle/游戏截图.png" alt="drawing" width="50%"/>
+
