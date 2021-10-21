@@ -1,7 +1,7 @@
 absl-py==0.9.0
 appdirs==1.4.4
 astor==0.8.1
-Babel==2.8.0
+Babel==2.9.1
 baostock==0.8.8
 certifi==2020.4.5.1
 cfgv==3.1.0
