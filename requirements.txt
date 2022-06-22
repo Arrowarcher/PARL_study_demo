@@ -41,7 +41,7 @@ matplotlib==2.2.4
 mccabe==0.6.1
 nltk==3.5
 nodeenv==1.4.0
-numpy==1.18.4
+numpy==1.22.0
 objgraph==3.4.1
 opencv-python==4.2.0.34
 paddlehub==1.7.1
