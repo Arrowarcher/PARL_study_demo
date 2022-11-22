@@ -51,7 +51,7 @@ paddlex==1.0.7
 pandas==1.0.4
 parl==1.3.1
 pathlib==1.0.1
-Pillow==7.1.2
+Pillow==9.3.0
 -e git+https://github.com/ntasfi/PyGame-Learning-Environment@3dbe79dc0c35559bb441b9359948aabf9bb3d331#egg=ple
 pre-commit==2.5.1
 prettytable==0.7.2
