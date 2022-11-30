@@ -45,7 +45,7 @@ numpy==1.18.4
 objgraph==3.4.1
 opencv-python==4.2.0.34
 paddlehub==1.7.1
-paddlepaddle==1.6.3
+paddlepaddle==2.4.0
 paddleslim==1.0.1
 paddlex==1.0.7
 pandas==1.0.4
